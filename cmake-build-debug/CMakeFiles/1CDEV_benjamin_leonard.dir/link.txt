@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\1CDEV_benjamin_leonard.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\1CDEV_benjamin_leonard.dir/objects.a @CMakeFiles\1CDEV_benjamin_leonard.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\1CDEV_benjamin_leonard.dir/objects.a -Wl,--no-whole-archive -o 1CDEV_benjamin_leonard.exe -Wl,--out-implib,lib1CDEV_benjamin_leonard.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1CDEV_benjamin_leonard.dir\linklibs.rsp
