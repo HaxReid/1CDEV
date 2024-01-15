@@ -1,3 +1,0 @@
-we use struct for the structure of the grid because it's easier for the rest of the implementation of 
-the code
-we also use a lot of pointer because it's really essential in c dev
